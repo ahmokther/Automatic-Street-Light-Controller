@@ -1,0 +1,10 @@
+
+Component list 
+1.Arduino UNO or Arduino Nano ---------------1 P
+2.LDR(Light Dependent Resistor) ------------- 1 P
+3.Jumper Wire------------------------------ Some
+4.Resistor(1k or 10k)------------------------- 1P
+5.Resistor(360ohm for led)---------------------1P
+6.led----------------------------------------- 1P
+7.Battery(9v)--------------------------------- 1P
+
